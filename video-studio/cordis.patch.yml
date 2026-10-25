@@ -1,0 +1,5 @@
+# Bundle patch for Video Studio: one Host row plus its Web client half.
+# Install with plugin_manager install_bundle and this package directory as target.
+- insert:
+    - id: video-studio
+      name: '@local/dsh-video-studio'

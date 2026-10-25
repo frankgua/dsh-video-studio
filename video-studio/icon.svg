@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Video Studio">
+  <defs>
+    <linearGradient id="body" x1="8" y1="14" x2="56" y2="54" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2f6df6"/>
+      <stop offset="1" stop-color="#7b3ff2"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="9" width="52" height="46" rx="11" fill="url(#body)"/>
+  <path d="M10 20.5h44" stroke="#ffffff" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M14 9.5 22 20.5M26 9.5 34 20.5M38 9.5 46 20.5" stroke="#ffffff" stroke-opacity=".55" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="32" cy="37" r="12.5" fill="#ffffff" fill-opacity=".16"/>
+  <path d="M28.6 30.4c0-.9 1-1.4 1.7-1l9 6.3c.7.5.7 1.6 0 2.1l-9 6.3c-.7.4-1.7-.1-1.7-1V30.4Z" fill="#ffffff"/>
+</svg>

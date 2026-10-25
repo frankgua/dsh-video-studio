@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Video Studio",
+    "description": "Generate videos with video models from a workspace panel, and let the agent call the same models through tools."
+  }
+}
